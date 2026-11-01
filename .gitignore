@@ -1,0 +1,23 @@
+# Compiled Java files and build artifacts
+*.class
+*.jar
+
+# Course data, resources, and test files
+*.bin
+*.gif
+*.gif.*
+*.jpg
+*.png
+*.txt
+*.txt.*
+*.wav
+CREDITS
+.lift
+
+# IDE and editor configuration
+.idea/
+*.iml
+.vscode/
+
+# Operating system files
+.DS_Store
