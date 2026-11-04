@@ -2,6 +2,7 @@
 
 This repository contains my solutions to the programming assignments for
 Princeton University's _Algorithms, Part I_ and _Algorithms, Part II_ courses.
+All solutions passed every test case and earned full credit on the autograder.
 
 ## Course Details
 
@@ -9,14 +10,12 @@ Princeton University's _Algorithms, Part I_ and _Algorithms, Part II_ courses.
 - **Course Names:** Algorithms, Part I and Algorithms, Part II
 - **Course Websites:** [Algorithms, Part I][part1-link] and [Algorithms, Part
   II][part2-link]
-- **Technology:** Java 21+ (OpenJDK)
+- **Technologies:** Java 21+ (OpenJDK)
 - **Coursework Timeline:** February 11, 2025 – March 20, 2025
 
 ## Coursework
 
-### Programming Assignments
-
-#### Algorithms, Part I
+### Algorithms, Part I
 
 | Assignment                             | Solution                            |
 | -------------------------------------- | ----------------------------------- |
@@ -27,7 +26,7 @@ Princeton University's _Algorithms, Part I_ and _Algorithms, Part II_ courses.
 | [8 Puzzle][puzzle]                     | [8puzzle][puzzle-solution]          |
 | [Kd-Trees][kdtree]                     | [kdtree][kdtree-solution]           |
 
-#### Algorithms, Part II
+### Algorithms, Part II
 
 | Assignment                       | Solution                      |
 | -------------------------------- | ----------------------------- |
@@ -42,9 +41,10 @@ Princeton University's _Algorithms, Part I_ and _Algorithms, Part II_ courses.
 [part1-link]: https://www.coursera.org/learn/algorithms-part1
 [part2-link]: https://www.coursera.org/learn/algorithms-part2
 
-<!-- Assignment instructions -->
+<!-- Assignment specifications -->
 
-[hello]: https://www.coursera.org/learn/algorithms-part1
+[hello]:
+  https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php
 [percolation]:
   https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 [queues]:
