@@ -1,8 +1,16 @@
-# Compiled Java files and build artifacts
+# IDE and editor settings
+.idea/
+*.iml
+
+# Compiled Java files and archives
 *.class
 *.jar
 
-# Course data, resources, and test files
+# Course libraries
+algs4/
+.lift/
+
+# Course data, input/output files, and test files
 *.bin
 *.gif
 *.gif.*
@@ -11,13 +19,6 @@
 *.txt
 *.txt.*
 *.wav
+
+# Resources attribution
 CREDITS
-.lift
-
-# IDE and editor configuration
-.idea/
-*.iml
-.vscode/
-
-# Operating system files
-.DS_Store
