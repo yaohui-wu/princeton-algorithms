@@ -17,14 +17,14 @@ All solutions passed every test case and earned full credit on the autograder.
 
 ### Algorithms, Part I
 
-| Assignment                             | Solution                            |
-| -------------------------------------- | ----------------------------------- |
-| [Hello, World][hello]                  | [hello][hello-solution]             |
-| [Percolation][percolation]             | [percolation][percolation-solution] |
-| [Deques and Randomized Queues][queues] | [queues][queues-solution]           |
-| [Collinear Points][collinear]          | [collinear][collinear-solution]     |
-| [8 Puzzle][puzzle]                     | [8puzzle][puzzle-solution]          |
-| [Kd-Trees][kdtree]                     | [kdtree][kdtree-solution]           |
+| Assignment                    | Solution                            |
+| ----------------------------- | ----------------------------------- |
+| [Hello, World][hello]         | [hello][hello-solution]             |
+| [Percolation][percolation]    | [percolation][percolation-solution] |
+| [Queues][queues]              | [queues][queues-solution]           |
+| [Collinear Points][collinear] | [collinear][collinear-solution]     |
+| [Slider Puzzle][puzzle]       | [8puzzle][puzzle-solution]          |
+| [Kd-Trees][kdtree]            | [kdtree][kdtree-solution]           |
 
 ### Algorithms, Part II
 
@@ -68,14 +68,14 @@ All solutions passed every test case and earned full credit on the autograder.
 
 <!-- Assignment solutions -->
 
-[hello-solution]: 00_hello/
-[percolation-solution]: 01_percolation/
-[queues-solution]: 02_queues/
-[collinear-solution]: 03_collinear/
-[puzzle-solution]: 04_8puzzle/
-[kdtree-solution]: 05_kdtree/
-[wordnet-solution]: 06_wordnet/
-[seam-solution]: 07_seam/
-[baseball-solution]: 08_baseball/
-[boggle-solution]: 09_boggle/
-[burrows-solution]: 10_burrows/
+[hello-solution]: 00-hello/
+[percolation-solution]: 01-percolation/
+[queues-solution]: 02-queues/
+[collinear-solution]: 03-collinear/
+[puzzle-solution]: 04-8puzzle/
+[kdtree-solution]: 05-kdtree/
+[wordnet-solution]: 06-wordnet/
+[seam-solution]: 07-seam/
+[baseball-solution]: 08-baseball/
+[boggle-solution]: 09-boggle/
+[burrows-solution]: 10-burrows/
